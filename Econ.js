@@ -25,7 +25,9 @@ class Company{
 //HTML Classes
 class Menu{
     constructor(elements, isOn){
-
+        this.elements = elements
+        this.isOn = false
     }
+    
 }
 
